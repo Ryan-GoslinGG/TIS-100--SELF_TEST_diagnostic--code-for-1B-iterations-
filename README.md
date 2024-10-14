@@ -13,3 +13,12 @@ We multiply and get the number of operations over a billion.
 Experimentally, I found out that in fast mode, the device performs about 6k operations per second, so the level with this algorithm will be solved in about 8 hours!
 
 In general, this is my first file on Git and I do not know what to write in the ReadMe, let it be this :)
+
+
+
+Exactly, here you can also specify the instructions where to save the file!
+
+Open the TIS-100 and select the "Self-test diagnostic" level, in the upper left corner there will be the "Open save directory" button. 
+A folder opens in which you need to insert the file (with a replacement if there is already a file with that name)
+
+That seems to be it now. Thank you all, bye everyone)
