@@ -19,6 +19,6 @@ In general, this is my first file on Git and I do not know what to write in the 
 Exactly, here you can also specify the instructions where to save the file!
 
 Open the TIS-100 and select the "Self-test diagnostic" level, in the upper left corner there will be the "Open save directory" button. 
-A folder opens in which you need to insert the file (with a replacement if there is already a file with that name)
+A folder opens in which you need to insert the file (with a replacement if there is already a file with that name), and the code from the file should appear in the third save slot.
 
 That seems to be it now. Thank you all, bye everyone)
